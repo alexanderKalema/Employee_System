@@ -1,0 +1,45 @@
+
+
+							 ********** Displaying Employee's Details ********** 
+N0   Personal Information       value          |Educational Information    value         |Job Information           value          |Emergency value          
+--------------------------------------------------------------------------------------------------------------------------------------------------
+     National ID Number:        1023           |Highest education Level:  Bachelors.     |Title                     Mr.            |Name:    56456          
+1    First name:                156            |Institution:              564            |supervisor                3153           |Phone:   5664           
+     Middle name:               6465           |Graduation Year:          654            |Work Location             321            |Email:   231            
+     Last name:                 89456          |                                         |Employment Type:          Part Time      |address: 1321           
+     Age                        23             |                                         |Start Date:               156454         |                        
+     Gender:                    Female         |                                         |Salary:                   645            |                        
+     Phone Number:              654            |                                         |                                         |                        
+     Email Address:             64             |                                         |                                         |                        
+     Street Address:            46             |                                         |                                         |                        
+     Birthday:                  65             |                                         |                                         |                        
+     Marriage Status:           Unknown        |                                         |                                         |                        
+     Nationality:               Ethiopian      |                                         |                                         |                        
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+     National ID Number:        1200           |Highest education Level:  Masters        |Title                     Mrs.           |Name:    6465           
+2    First name:                12             |Institution:              546            |supervisor                464            |Phone:   465            
+     Middle name:               655            |Graduation Year:          46             |Work Location             646            |Email:   6454           
+     Last name:                 65454          |                                         |Employment Type:          Full Time      |address: 4564           
+     Age                        56             |                                         |Start Date:               465            |                        
+     Gender:                    Female         |                                         |Salary:                   564            |                        
+     Phone Number:              565            |                                         |                                         |                        
+     Email Address:             65             |                                         |                                         |                        
+     Street Address:            653            |                                         |                                         |                        
+     Birthday:                  23             |                                         |                                         |                        
+     Marriage Status:           Divorced       |                                         |                                         |                        
+     Nationality:               Ethiopian      |                                         |                                         |                        
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+     National ID Number:        1999           |Highest education Level:  Bachelors.     |Title                     Mrs.           |Name:    64564          
+3    First name:                5645           |Institution:              154            |supervisor                46             |Phone:   545            
+     Middle name:               6454           |Graduation Year:          14             |Work Location             5464           |Email:   4564           
+     Last name:                 4564           |                                         |Employment Type:          Full Time      |address: 4654           
+     Age                        654            |                                         |Start Date:               465464         |                        
+     Gender:                    Male           |                                         |Salary:                   146            |                        
+     Phone Number:              465            |                                         |                                         |                        
+     Email Address:             564            |                                         |                                         |                        
+     Street Address:            465            |                                         |                                         |                        
+     Birthday:                  123            |                                         |                                         |                        
+     Marriage Status:           Divorced       |                                         |                                         |                        
+     Nationality:               Not Ethiopian  |                                         |                                         |                        
